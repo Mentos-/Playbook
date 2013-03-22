@@ -18,6 +18,7 @@
 		0B9A0D8516FBD021001A2DCB /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0B9A0D8416FBD021001A2DCB /* Default-568h@2x.png */; };
 		0B9A0D8816FBD021001A2DCB /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0B9A0D8716FBD021001A2DCB /* ViewController.m */; };
 		0B9A0D8B16FBD021001A2DCB /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0B9A0D8916FBD021001A2DCB /* ViewController.xib */; };
+		0BB2590216FCFAA700CBF9D1 /* nc_lightning.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 0BB2590116FCFAA700CBF9D1 /* nc_lightning.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		0B9A0D8616FBD021001A2DCB /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		0B9A0D8716FBD021001A2DCB /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		0B9A0D8A16FBD021001A2DCB /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+		0BB2590116FCFAA700CBF9D1 /* nc_lightning.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nc_lightning.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 		0B9A0D7516FBD021001A2DCB /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				0BB2590116FCFAA700CBF9D1 /* nc_lightning.jpeg */,
 				0B9A0D7616FBD021001A2DCB /* PlayBook-Info.plist */,
 				0B9A0D7716FBD021001A2DCB /* InfoPlist.strings */,
 				0B9A0D7A16FBD021001A2DCB /* main.m */,
@@ -163,6 +166,7 @@
 				0B9A0D8316FBD021001A2DCB /* Default@2x.png in Resources */,
 				0B9A0D8516FBD021001A2DCB /* Default-568h@2x.png in Resources */,
 				0B9A0D8B16FBD021001A2DCB /* ViewController.xib in Resources */,
+				0BB2590216FCFAA700CBF9D1 /* nc_lightning.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -298,6 +302,7 @@
 				0B9A0D9016FBD021001A2DCB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
